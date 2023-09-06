@@ -1,0 +1,36 @@
+body{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#board{
+    width: 25.7rem;
+    height: 25.8rem;
+    border: 2px solid rgb(252, 5, 5);
+
+    margin: 0% auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img{
+    width: 5rem;
+    height: 5rem;
+    border: 0.5px solid cadetblue;
+}
+
+#pieces{
+    width: 66.7rem;
+    height: 10rem;
+    border: 2px solid rgb(247, 112, 2);
+
+    margin: 0% auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pieces img{
+    width: 5rem;
+    height: 5rem;
+    border: 0.5px solid cadetblue;
+}
